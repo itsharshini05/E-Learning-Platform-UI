@@ -44,3 +44,7 @@ Responsive Design: Ensures pages work on desktops, tablets, and mobile devices u
 Video Embedding: HTML5 <video> tags or iframe embeds allow smooth integration of learning videos.
 
 This static UI does not rely on JavaScript and is ideal for simple, content-driven educational platforms. It serves as a clean and structured foundation that can later be enhanced with interactivity or connected to a back-end system.
+
+
+
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/936a090c-afd2-44f5-8f6d-a496c9fdec5f)
