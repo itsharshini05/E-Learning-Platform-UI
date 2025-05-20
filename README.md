@@ -48,3 +48,4 @@ This static UI does not rely on JavaScript and is ideal for simple, content-driv
 
 
 *OUTPUT*:![Image](https://github.com/user-attachments/assets/936a090c-afd2-44f5-8f6d-a496c9fdec5f)
+![Image](https://github.com/user-attachments/assets/a5a438fd-b597-461f-adf8-ba0939914132)
