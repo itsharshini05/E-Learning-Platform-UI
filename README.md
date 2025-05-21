@@ -50,3 +50,4 @@ This static UI does not rely on JavaScript and is ideal for simple, content-driv
 *OUTPUT*:![Image](https://github.com/user-attachments/assets/936a090c-afd2-44f5-8f6d-a496c9fdec5f)
 ![Image](https://github.com/user-attachments/assets/a5a438fd-b597-461f-adf8-ba0939914132)
 ![Image](https://github.com/user-attachments/assets/0aed929d-261c-4f63-be6d-fb174c5f7c6f)
+![Image](https://github.com/user-attachments/assets/dfae2f70-f6ce-47ba-83fe-3be6be38f044)
