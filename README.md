@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:The E-Learning Platform UI is a static, multi-page front-end interface designed to provide an organized and accessible learning experience. It is intended for online learners to browse available courses, watch educational videos, and view their learning progress.
+*DESCRIPTION*: The E-Learning Platform UI is a static, multi-page front-end interface designed to provide an organized and accessible learning experience. It is intended for online learners to browse available courses, watch educational videos, and view their learning progress.
 
 This platform is typically used in schools, colleges, training centers, and by online course providers to deliver course content in a user-friendly format. By offering key features like course listings, video playback, and progress display, it supports remote education without needing dynamic scripting or interactivity.
 
